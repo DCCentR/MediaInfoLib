@@ -142,7 +142,7 @@ MediaInfo_Config_MediaInfo::MediaInfo_Config_MediaInfo()
     FileIsSub=false;
     FileIsDetectingDuration=false;
     FileIsReferenced=false;
-    FileTestContinuousFileNames=true;
+    FileTestContinuousFileNames=false;
     FileTestDirectory=true;
     FileKeepInfo=false;
     FileStopAfterFilled=false;
